@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HB-Expenditure-Analyzer/static/css/main.15e284f6.css",
+    "main.js": "/HB-Expenditure-Analyzer/static/js/main.698eaf32.js",
+    "index.html": "/HB-Expenditure-Analyzer/index.html",
+    "main.15e284f6.css.map": "/HB-Expenditure-Analyzer/static/css/main.15e284f6.css.map",
+    "main.698eaf32.js.map": "/HB-Expenditure-Analyzer/static/js/main.698eaf32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15e284f6.css",
+    "static/js/main.698eaf32.js"
+  ]
+}
